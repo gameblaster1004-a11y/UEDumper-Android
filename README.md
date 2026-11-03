@@ -24,7 +24,7 @@ Grab the APK from [**Releases**](https://github.com/alenhimself/UEDumper-Android
 
 ## Requirements
 
-- Rooted device — KernelSU, Magisk, or APatch
+- Rooted device — KernelSU, Magisk, or EblanPatch
 - Android / Emulator 8.0+ (`minSdk 26`). Ships binaries for `arm64-v8a`, `armeabi-v7a`, `x86_64`, `x86` — the app picks the right one automatically.
 - The target game running in the foreground/background while dumping.
 
