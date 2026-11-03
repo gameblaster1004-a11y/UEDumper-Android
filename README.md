@@ -107,7 +107,7 @@ git clone --recurse-submodules https://github.com/alenhimself/UEDumper-Android.g
 ```
 
 ## Project structure
-
+ 
 ```
 Dumper/                 Dumping core (UE analyzer, generators, memory, profiles)
 libs/                   KittyMemoryEx submodule
